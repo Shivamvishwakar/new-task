@@ -1,0 +1,19 @@
+.navbar{
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(63,81,181);
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.store-icon{
+    display: flex;
+    align-items: end;
+    margin-left: 75%;
+    cursor: pointer;
+    
+}
+.navbar p{
+    cursor:pointer  ;
+}

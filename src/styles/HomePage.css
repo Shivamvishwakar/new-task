@@ -1,0 +1,16 @@
+.main-home-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.para-text{
+    font-size: 80px;
+}
+.menu-btn{
+    background-color: rgb(63,81,181);
+    color: white;
+    height: 30px;
+    width: 100px;
+    border-radius: 12px ;
+}
